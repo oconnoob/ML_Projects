@@ -1,12 +1,12 @@
 
 # Video Review Sentiment Analysis
 
-A mini-project on performing automated sentiment analysis for product video reviews by using [**AssemblyAI's**](https://www.assemblyai.com/) audio transcription API and a pretrained BERT model from [Hugging Face](https://huggingface.co/).
+A mini-project on performing automated sentiment analysis for product video reviews by using [**AssemblyAI's**](https://www.assemblyai.com/) audio transcription API and a pretrained BERT model.
 
 Follow along with the [Jupyter Notebook](https://github.com/oconnoob/ML_Projects/blob/main/nlp/assembly_ai/BERT%20Reviews.ipynb) here. The corresponding page on my website can be found [here](https://www.ryansoconnor.com/video-review-sentiment-analysis).
 
 
-In this notebook we:
+### In this notebook we:
 - Learn about **AssemblyAI's Speech-to-Text API** and create a free account
 - Use **URL requests** and **FFmpeg** to automatically download audio from iPhone 10 reviews on YouTube
 - **Use AssemblyAI's API** to upload these audio files and receive **transcripts of the reviews**
