@@ -10,3 +10,5 @@ In this notebook we will:
 - Build a CAE for **noise reduction**
 - Build a CNN for **MNIST classification**
 - Explore whether or not using a CAE as a **denoising preprocessing step** for a classification CNN is worthwhile
+
+_Please feel free to reproduce or copy any part of any file within this repo given proper attribution_
